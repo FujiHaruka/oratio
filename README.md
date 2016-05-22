@@ -5,13 +5,13 @@
 ## 1. インストール
 
 ```sh
-$ npm prayer -g
+$ npm install oratio -g
 ```
 
 ## 2. 使い方
 
 ```
-$ pray -j
+$ oratio -j
 
 天にまします我らの父よ。
 ねがわくは御名をあがめさせたまえ。

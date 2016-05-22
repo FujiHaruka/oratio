@@ -1,9 +1,9 @@
 {
-  "name": "prayer",
+  "name": "oratio",
   "version": "0.1.0",
   "description": "Command line tool to output Lord's prayer.",
   "bin": {
-    "prayer": "./prayer.js"
+    "oratio": "./oratio.js"
   },
   "dependencies": {
     "yargs": "^4.7.1"
@@ -13,7 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Lord's",
     "prayer"
   ],
   "author": "Fuji Haruka",

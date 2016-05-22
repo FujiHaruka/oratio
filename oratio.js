@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Lord%27s_Prayer
 
 const argv = require('yargs')
     .usage(usage)
-    .example('prayer -j')
+    .example('oratio -j')
     .alias('j', 'japanese')
     .alias('e', 'english')
     .alias('l', 'latin')
