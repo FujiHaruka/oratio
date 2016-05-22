@@ -1,5 +1,3 @@
-# prayer
-
 主の祈りを標準出力に出力するコマンドラインツール。
 
 ## 1. インストール
@@ -43,3 +41,7 @@ $ oratio -j
 [wikipedia:主の祈り](https://ja.wikipedia.org/wiki/%E4%B8%BB%E3%81%AE%E7%A5%88%E3%82%8A)
 
 [wikipedia:Lord's Prayer](https://en.wikipedia.org/wiki/Lord%27s_Prayer)
+
+## 5. ソースコード
+
+https://github.com/FujiHaruka/oratio

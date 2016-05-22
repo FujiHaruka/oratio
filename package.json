@@ -19,5 +19,11 @@
   "license": "ISC",
   "engines": {
     "node" : ">=6"
+  },
+  "homepage": "https://github.com/FujiHaruka/oratio",
+  "bugs": "https://github.com/FujiHaruka/oratio/issues",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/FujiHaruka/oratio"
   }
 }
